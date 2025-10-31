@@ -26,7 +26,7 @@ $
 ```
 
 # Compile
-The code uses some GNU extended features of gcc, for example designated initializers, therefore may only be build using gcc.
+The code uses some GNU extended features of c, for example designated initializers, therefore may only be build using gcc.
 
 ``` bash
 $ make boom.bin
