@@ -1,0 +1,5 @@
+**/*.swp
+**/*.txt
+obj
+dobj
+*.bin
